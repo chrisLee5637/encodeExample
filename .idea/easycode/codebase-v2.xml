@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/java/com/xipi/common/model/pii/annotation/PIIDependsOnField.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/pii/annotation/PIIField.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/pii/enumeration/PIIDatalevel.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/pii/enumeration/PIIDependsOnFieldType.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/pii/enumeration/PIIFieldType.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/pii/provider/PIIAdditionalConditionProvider.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/model/po/CustomerDetailsPO.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/service/advice/BasePIIAdvice.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/service/advice/PIIRequestAdvice.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/service/advice/PIIResponseAdvice.java;C:/Users/Alice/IdeaProjects/example/src/java/com/xipi/common/service/annotation/PIIDataAPI.java;C:/Users/Alice/IdeaProjects/example/src/Main.java" />
+  </component>
+</project>
